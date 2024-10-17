@@ -7,7 +7,7 @@ Marketing Analytics For E-Commerce Market Place Company
 Business Problem - Client( leading E-Commerce company) want to take data driven decision about business and understand customer, seller behaviors, product behavior and channel behavior etc... which help him in measuring, managing and analysing performance of business.
 
 I got multiple datasets related to transactions, orders, payment, locations, customers, sellers, product and it's categories. After data cleansing what I've done:-
-1. Perform Detailed exploratory analysis ( high level metrics, new customers acquired & customer retention every month, top performing products and categories ).
+1. Perform detailed exploratory analysis ( high level metrics, new customers acquired & customer retention every month, top performing products and categories ).
 2. Understand the trends/seasonality ( sales, quantity by category, month, week, day, time etc. )
 3. Performing Customers/sellers Segmentation.
 4. Cross-Selling (Which products are selling together)
