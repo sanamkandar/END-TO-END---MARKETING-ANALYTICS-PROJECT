@@ -1,7 +1,5 @@
 
-# END TO END - MARKETING ANALYTICS PROJECTEND TO END - MARKETING ANALYTICS PROJECT
-
-Associated with AnalytixLabsAssociated with AnalytixLabs
+# END TO END - MARKETING ANALYTICS PROJECT
 Marketing Analytics For E-Commerce Market Place Company
 
 Business Problem - Client( leading E-Commerce company) want to take data driven decision about business and understand customer, seller behaviors, product behavior and channel behavior etc... which help him in measuring, managing and analysing performance of business.
